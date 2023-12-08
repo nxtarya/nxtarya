@@ -6,9 +6,6 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://notarya100.vercel.app>
-</p>
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=notarya100&color=brightgreen" alt="watching_count">
 </p>
 
