@@ -4,8 +4,23 @@
   <img src="https://gcdnb.pbrd.co/images/gbCA0t8JQyWA.png" width=800>
 </p>
 
-[![Website arshia.gq](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://notarya100.vercel.app)
-<img src="https://komarev.com/ghpvc/?username=notarya100&color=brightgreen" alt="watching_count" />
+
+<p align="center">
+  <img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://notarya100.vercel.app>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=notarya100&color=brightgreen" alt="watching_count">
+</p>
+
+
+
+
+
+
+
+
+
+
 
 # 👋🏻 Hey! I'm Arya
 <p>I'm a 14-year-old Developer from Iran. I enjoy coding and playing video games. In my freetime, I create cool stuff on the Internet, Just for some fun! I got interested in creating Discord bots and Servers, Some of them were kinda successful.</p>
