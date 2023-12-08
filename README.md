@@ -4,9 +4,6 @@
   <img src="https://gcdnb.pbrd.co/images/gbCA0t8JQyWA.png" width=800>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/website?url=https://notarya100.vercel.app">
-</p>
 
 
 <p align="center">
