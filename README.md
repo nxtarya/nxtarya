@@ -4,6 +4,9 @@
   <img src="https://gcdnb.pbrd.co/images/gbCA0t8JQyWA.png" width=800>
 </p>
 
+[![Website arshia.gq](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://notarya100.vercel.app)
+<img src="https://komarev.com/ghpvc/?username=notarya100&color=brightgreen" alt="watching_count" />
+
 # 👋🏻 Hey! I'm Arya
 <p>I'm a 14-year-old Developer from Iran. I enjoy coding and playing video games. In my freetime, I create cool stuff on the Internet, Just for some fun! I got interested in creating Discord bots and Servers, Some of them were kinda successful.</p>
 <p>I try to improve myself by learning different stuff, Like new languages, New technologies and more. I edited the code of my website about 20 times but I'm still looking forward to change it to a better one. I design User Interfaces too, I'm not a pro at it but I can design simple but effective.</p>
