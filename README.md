@@ -6,5 +6,6 @@
 
 ## 👋🏻 Hey! I'm Arya
 <p>I'm a 14-year-old Developer from Iran. I enjoy coding and playing video games. In my freetime, I create cool stuff on the Internet, Just for some fun! I got interested in creating Discord bots and Servers, Some of them were kinda successful.</p>
+<p>I try to improve myself by learning different stuff, Like new languages, New technologies and more. I edited the code of my website about 20 times but I'm still looking forward to change it to a better one. I design User Interfaces too, I'm not a pro at it but I can design simple but effective.</p>
 
 <p>I don't exactly remember the amount, But I had about 30+ projects, You can <a href="https://discordapp.com/users/1147999469854523414">contact</a> me if you need any online service!</p>
