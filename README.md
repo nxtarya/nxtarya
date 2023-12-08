@@ -45,6 +45,21 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,nextjs,python,ps,discord,neovim,powershell,replit,figma,github,linux">
 
 ## 🚀 Github Stats
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=notarya100&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117">
+
+</p>
+
+
+
+
+<p align="center">
 <img src="https://streak-stats.demolab.com/?user=notarya100&background=0d1117&border=0d1117&stroke=57cdf1&ring=57cdf1&fire=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff">
+</p>
+
+
+
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=notarya100&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&hide_border=true&bg_color=0d1117">
+
+
