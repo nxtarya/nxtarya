@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+# ✨ About Me:
 🔭 I’m currently working on random stuff<br>💬 Ask me about Discord Servers & Bots, Video Games <br>⚡ Fun fact: I changed my readme a lot<br>📮 DM me in Discord, Let's talk!
 
 
