@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on random stuff<br><br>💬 Ask me about Discord Servers & Bots, Video Games <br>⚡ Fun fact: I changed my readme a lot
+🔭 I’m currently working on random stuff<br>💬 Ask me about Discord Servers & Bots, Video Games <br>⚡ Fun fact: I changed my readme a lot
 
 
 # 💻 Tech Stack:
