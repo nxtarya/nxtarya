@@ -12,7 +12,7 @@ Despite my young age, I have already demonstrated a keen aptitude for coding and
 As I continue to navigate the dynamic world of Discord, I am driven by a desire to push boundaries, learn from challenges, and contribute meaningfully to the digital landscape through my creative endeavors.
 
 # 🌌 Things that I use
-![Icons](https://skillicons.dev/icons?i=html,css,js,nextjs,react,express,nodejs,python,vscodium)
+![Icons](https://skillicons.dev/icons?i=html,css,tailwind,js,nextjs,react,express,nodejs,python,vscodium)
 
 
 # 🚀 GitHub Stats
