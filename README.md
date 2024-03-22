@@ -14,3 +14,5 @@ As I continue to navigate the dynamic world of Discord, I am driven by a desire 
 # 🚀 GitHub Stats
 
 ![Stats1](https://github-readme-stats.vercel.app/api?username=notarya1000&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117)
+
+![Stats2](https://streak-stats.demolab.com/?user=notarya1000&background=0d1117&border=0d1117&stroke=57cdf1&ring=57cdf1&fire=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff)
