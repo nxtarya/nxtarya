@@ -10,3 +10,7 @@ Among my creations, some have stood out for their success, garnering positive fe
 Despite my young age, I have already demonstrated a keen aptitude for coding and community building. These experiences have not only honed my technical skills but also instilled in me a sense of responsibility and dedication to my craft.
 
 As I continue to navigate the dynamic world of Discord, I am driven by a desire to push boundaries, learn from challenges, and contribute meaningfully to the digital landscape through my creative endeavors.
+
+# 🚀 GitHub Stats
+
+![Stats1](https://github-readme-stats.vercel.app/api?username=notarya1000&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117)
