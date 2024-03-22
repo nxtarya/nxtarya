@@ -1,7 +1,7 @@
 ![Banner Image](https://media.discordapp.net/attachments/1205831813571022908/1220719478501802116/banner.png?ex=660ff69b&is=65fd819b&hm=0a5e2281863b9970c09f52ce64350b4edc5b5464724ec5847194f30a2ed7e409&=&format=webp&quality=lossless&width=1025&height=327)
 
 # 👋🏻 Welcome to my GitHub profile!
-My name is Arya. At the age of 14, I embarked on my Discord journey, joining the platform 3 years ago. Since then, I have delved into the realm of server creation, crafting unique digital spaces that cater to various interests and communities.
+My name is Arya. At the age of 14, I embarked on my Discord journey, Joining the platform 3 years ago. Since then, I have delved into the realm of server creation, crafting unique digital spaces that cater to various interests and communities.
 
 Within this digital landscape, I have also ventured into the realm of bot creation. Through my coding prowess and creativity, I have developed bots that enhance user experiences and streamline interactions within Discord servers.
 
