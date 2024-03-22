@@ -25,8 +25,12 @@ As I continue to navigate the dynamic world of Discord, I am driven by a desire 
 ![Icons](https://skillicons.dev/icons?i=html,css,tailwind,js,nextjs,react,express,nodejs,python,vscodium,figma,discord,github,linux)
 
 
-# 🚀 GitHub Stats
+# 🚀 Stats
 
 ![Stats1](https://github-readme-stats.vercel.app/api?username=notarya1000&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117)
 
 ![Stats2](https://streak-stats.demolab.com/?user=notarya1000&background=0d1117&border=0d1117&stroke=57cdf1&ring=57cdf1&fire=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff)
+
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fnotarya1000.vercel.app)
+
+![Count](https://komarev.com/ghpvc/?username=notarya1000&color=brightgreen)
