@@ -1,5 +1,8 @@
 ![Banner Image](https://media.discordapp.net/attachments/1205831813571022908/1220719478501802116/banner.png?ex=660ff69b&is=65fd819b&hm=0a5e2281863b9970c09f52ce64350b4edc5b5464724ec5847194f30a2ed7e409&=&format=webp&quality=lossless&width=1025&height=327)
 
 # 👋🏻 Welcome to my GitHub profile!
-My name is Arya. I'm a 14 year old guy from Iran. I enjoy coding and playing video games. In my free time, I generate random ideas and work on them. I have over 50 cool projects that are lost on the Internet.
-I joined Discord in 2021 and started learning about it, It didn't have a lot of features but it was still a great application. Then I started to create Discord servers and bots, Some successful projects and some random stuff.
+<p>My name is Arya. At the age of 14, I embarked on my Discord journey, joining the platform 3 years ago. Since then, I have delved into the realm of server creation, crafting unique digital spaces that cater to various interests and communities.</p>
+<p>Within this digital landscape, I have also ventured into the realm of bot creation. Through my coding prowess and creativity, I have developed bots that enhance user experiences and streamline interactions within Discord servers.</p>
+<p>Among my creations, some have stood out for their success, garnering positive feedback and engagement from users. This validation has fueled my passion for innovation and continuous improvement in my projects.</p>
+<p>I have already demonstrated a keen aptitude for coding and community building. These experiences have not only honed my technical skills but also instilled in me a sense of responsibility and dedication to my craft.</p>
+<p>As I continue to navigate the dynamic world of Discord, I am driven by a desire to push boundaries, learn from challenges, and contribute meaningfully to the digital landscape through my creative endeavors.</p>
