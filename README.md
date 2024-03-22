@@ -13,7 +13,13 @@ As I continue to navigate the dynamic world of Discord, I am driven by a desire 
 
 # ❓ What I'm Doing
 
-* idk
+ ## Random Projects
+ * I just think of something cool then create it.
+
+## Discord Things
+* I might create some servers or bots too.
+
+  
 
 # 🌌 Things that I use
 ![Icons](https://skillicons.dev/icons?i=html,css,tailwind,js,nextjs,react,express,nodejs,python,vscodium,figma,discord,github,linux)
