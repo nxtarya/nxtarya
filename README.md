@@ -7,7 +7,7 @@ Within this digital landscape, I have also ventured into the realm of bot creati
 
 Among my creations, some have stood out for their success, garnering positive feedback and engagement from users. This validation has fueled my passion for innovation and continuous improvement in my projects.
 
-Despite my young age, I have already demonstrated a keen aptitude for coding and community building. These experiences have not only honed my technical skills but also instilled in me a sense of responsibility and dedication to my craft.
+I have already demonstrated a keen aptitude for coding and community building. These experiences have not only honed my technical skills but also instilled in me a sense of responsibility and dedication to my craft.
 
 As I continue to navigate the dynamic world of Discord, I am driven by a desire to push boundaries, learn from challenges, and contribute meaningfully to the digital landscape through my creative endeavors.
 
