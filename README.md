@@ -1,4 +1,4 @@
-![Banner Image](https://media.discordapp.net/attachments/1221456540620423188/1221795261962260530/image_1.png?ex=6613e082&is=66016b82&hm=b4e48e732f8ebfb868d48a494894d7f7bcef85d73036a0670325dfc79fb784b5&=&format=webp&quality=lossless&width=803&height=402)
+<img src="https://media.discordapp.net/attachments/1221456540620423188/1221795261962260530/image_1.png?ex=6613e082&is=66016b82&hm=b4e48e732f8ebfb868d48a494894d7f7bcef85d73036a0670325dfc79fb784b5&=&format=webp&quality=lossless&width=803&height=402">
 
 # 👋🏻 Welcome to my GitHub profile!
 My name is Arya. At the age of 14, I embarked on my Discord journey, Joining the platform 3 years ago. Since then, I have delved into the realm of server creation, crafting unique digital spaces that cater to various interests and communities.
