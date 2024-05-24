@@ -1,15 +1,11 @@
-![Banner](https://media.discordapp.net/attachments/1221456540620423188/1221795892596838470/download.png?ex=6613e118&is=66016c18&hm=c6722618224c5aebdca41afc7feff7cb14eba32f0b79265b67a8b004f83ab902&=&format=webp&quality=lossless&width=1025&height=240)
-
 # 👋🏻 Welcome to my GitHub profile!
-My name is Arya. At the age of 14, I embarked on my Discord journey, Joining the platform 3 years ago. Since then, I have delved into the realm of server creation, crafting unique digital spaces that cater to various interests and communities.
+My name is Arya. I joined Discord three years ago and have since created unique servers for different communities.
 
-Within this digital landscape, I have also ventured into the realm of bot creation. Through my coding prowess and creativity, I have developed bots that enhance user experiences and streamline interactions within Discord servers.
+I also make bots that improve user experiences on Discord. Some of my bots have been very successful, receiving positive feedback from users. This success drives me to keep innovating and improving my work.
 
-Among my creations, some have stood out for their success, garnering positive feedback and engagement from users. This validation has fueled my passion for innovation and continuous improvement in my projects.
+I've shown strong skills in coding and community building. These experiences have sharpened my technical abilities and taught me responsibility and dedication.
 
-I have already demonstrated a keen aptitude for coding and community building. These experiences have not only honed my technical skills but also instilled in me a sense of responsibility and dedication to my craft.
-
-As I continue to navigate the dynamic world of Discord, I am driven by a desire to push boundaries, learn from challenges, and contribute meaningfully to the digital landscape through my creative endeavors.
+As I continue on Discord, I'm eager to push boundaries, learn from challenges, and make meaningful contributions to the digital world with my creativity.
 
 # ❓ What I'm Doing
 
@@ -31,5 +27,5 @@ As I continue to navigate the dynamic world of Discord, I am driven by a desire 
 
 ![Stats2](https://streak-stats.demolab.com/?user=ntarya&background=0d1117&border=0d1117&stroke=57cdf1&ring=57cdf1&fire=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff)
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fntarya.vercel.app)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fntarya.github.io)
 ![Count](https://komarev.com/ghpvc/?username=ntarya&color=brightgreen)
