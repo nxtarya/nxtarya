@@ -1,27 +1,13 @@
-# 👋🏻 Welcome to my GitHub profile!
-My name is Arya. I joined Discord three years ago and have since created unique servers for different communities.
+# 👋🏻 Hey there! I'm Arya.
 
-I also make bots that improve user experiences on Discord. Some of my bots have been very successful, receiving positive feedback from users. This success drives me to keep innovating and improving my work.
+I've been part of Discord for 3 years. In that time, I've created unique servers and bots to improve the user experience. My bots have been very popular and received great feedback, which motivates me to keep innovating.
 
-I've shown strong skills in coding and community building. These experiences have sharpened my technical abilities and taught me responsibility and dedication.
+## 🛠️ What I Do
 
-As I continue on Discord, I'm eager to push boundaries, learn from challenges, and make meaningful contributions to the digital world with my creativity.
+- I build cool stuff, like random projects and Discord servers/bots.
+- I use various technologies to bring my ideas to life.
 
-# ❓ What I'm Doing
-
- ### Random Projects
- * I just think of something cool then create it.
-
-### Discord Things
-* I might create some servers or bots too.
-
-  
-
-# 🌌 Things that I use
-![Icons](https://skillicons.dev/icons?i=html,css,tailwind,js,nextjs,react,express,nodejs,python,vscodium,figma,discord,github,linux)
-
-
-# 🚀 Stats
+## 📊 Stats
 
 ![Stats1](https://github-readme-stats.vercel.app/api?username=ntarya&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117)
 
