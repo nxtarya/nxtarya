@@ -11,4 +11,4 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,markdown,python,rust,figma,discord,github,vscode,photoshop,linux,arch,windows">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,react,nextjs,markdown,python,rust,figma,discord,github,vscode,photoshop,linux,arch,windows">
