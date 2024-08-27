@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **rust**
 
-- 📫 How to reach me: **Discord: @ntarya**
+- 📫 How to reach me: **ntarya @ discord**
 
 - ⚡ Fun fact: **I use arch btw**
 
