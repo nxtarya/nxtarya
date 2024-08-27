@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arya</h1>
-<h3 align="center">A cool frontend & backend developer from Iran</h3>
+<h3 align="center">I enjoy coding & gaming</h3>
 
 - 🔭 I’m currently working on [Donut-API](SOON)
 
