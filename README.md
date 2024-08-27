@@ -1,20 +1,25 @@
-# 👋🏻 Hey there! I'm Arya.
+<h1 align="center">Hi 👋, I'm Arya</h1>
+<h3 align="center">A cool frontend & backend developer from Iran</h3>
 
-I've been part of Discord for 3 years. In that time, I've created unique servers and bots to improve the user experience. My bots have been very popular and received great feedback, which motivates me to keep innovating.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ntarya&label=Profile%20views&color=0e75b6&style=flat" alt="ntarya" /> </p>
 
-## 🛠️ What I Do
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ntarya" alt="ntarya" /></a> </p>
 
-- I build cool stuff, like random projects and Discord servers/bots.
-- I use various technologies to bring my ideas to life.
+- 🔭 I’m currently working on [Donut-API](SOON)
 
-## 📊 Stats
+- 🌱 I’m currently learning **rust**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ntarya&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117" alt="Stats1" />
-  <img src="https://streak-stats.demolab.com/?user=ntarya&background=0d1117&border=0d1117&stroke=57cdf1&ring=57cdf1&fire=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff" alt="Stats2" />
+- 📫 How to reach me **Discord: @ntarya**
+
+- ⚡ Fun fact **I use arch btw**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/website?url=https%3A%2F%2Fntarya.github.io" alt="Website" />
-  <img src="https://komarev.com/ghpvc/?username=ntarya&color=brightgreen" alt="Count" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ntarya&show_icons=true&locale=en" alt="ntarya" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ntarya&" alt="ntarya" /></p>
