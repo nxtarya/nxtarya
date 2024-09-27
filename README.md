@@ -14,6 +14,7 @@
 - ⚡ Fun fact **I fucking hate Arch Linux**
 
 <h3 align="left">Connect with me:</h3>
+<h4 align="left">Discord: @nxtarya</h3>
 <p align="left">
 </p>
 <p align="center">
