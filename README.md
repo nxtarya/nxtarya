@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Arya</h1>
 <h3 align="center">A guy who enjoys coding & playing video games</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nxtarya&label=Profile%20views&color=0e75b6&style=flat" alt="nxtarya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nxtarya&label=Profile%20views&color=2ec27e&style=flat" alt="nxtarya" /> </p>
 
 - 🔭 I’m currently working on **my website**
 
-- 🌱 I’m currently learning **more linux**
+- 🌱 I’m currently learning **more Linux**
 
-- 👨‍💻 All of my projects are available at at [github.com/nxtarya](github.com/nxtarya)
+- 👨‍💻 All of my projects are available [github.com/nxtarya](github.com/nxtarya)
 
-- 💬 Ask me about **linux**
+- 💬 Ask me about **Linux**
 
 - ⚡ Fun fact **I fucking hate Arch Linux**
 
@@ -17,7 +17,7 @@
 <p align="left">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nxtarya&show_icons=true&locale=en" alt="nxtarya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nxtarya&show_icons=true&theme=dark&hide_border=true&locale=en" alt="nxtarya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nxtarya&" alt="nxtarya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nxtarya&theme=dark" alt="nxtarya" /></p>
 
