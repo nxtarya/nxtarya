@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-
+<center>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nxtarya&show_icons=true&theme=dark&hide_border=true&locale=en" alt="nxtarya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nxtarya&theme=dark" alt="nxtarya" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nxtarya&theme=dark&hide_border=true" alt="nxtarya" /></p>
+</center>
