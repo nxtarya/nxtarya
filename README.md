@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I fucking hate Arch Linux**
 
-<h3 align="left">Connect with me using Discord @ nxtarya</h3>
+<h3 align="left">Connect with me using Discord @nxtarya</h3>
 <p align="left">
 </p>
 <p align="center">
