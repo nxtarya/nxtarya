@@ -7,14 +7,13 @@
 
 - 🌱 I’m currently learning **more Linux**
 
-- 👨‍💻 All of my projects are available [github.com/nxtarya](github.com/nxtarya)
+- 👨‍💻 All of my projects are available at [github.com/nxtarya](github.com/nxtarya)
 
 - 💬 Ask me about **Linux**
 
 - ⚡ Fun fact **I fucking hate Arch Linux**
 
-<h3 align="left">Connect with me:</h3>
-<h4 align="left">Discord: @nxtarya</h3>
+<h3 align="left">Connect with me using Discord @ nxtarya</h3>
 <p align="left">
 </p>
 <p align="center">
